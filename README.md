@@ -1,5 +1,4 @@
-# douyin-downloader-rs Rust写的抖音视频下载器
-
+# douyin-downloader-rs 
 
 ## 简介
 
